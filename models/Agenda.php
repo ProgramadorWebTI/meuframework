@@ -2,7 +2,7 @@
 
 class Agenda extends Model {
 
-	// TECNICA PARA RODAR DOIS CONSTRUCT
+	// TECNICA PARA RODAR DOIS CONSTRUCT, SEMPRE USAR O __CONSTRUCT;
 	public function __construct() {
 		parent::__construct();
 	}

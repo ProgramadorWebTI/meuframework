@@ -13,7 +13,7 @@
 		font-family: 'Open Sans', sans-serif !important;
 	}
 	</style>
-	<title></title>
+	<title>Template</title>
 </head>
 <body> <br>
 <div class="container">

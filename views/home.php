@@ -1,2 +1,1 @@
-<h1>Home</h1>
-<?php echo base_url(); ?>
+<h1 class="text-center h1"><?=$titulo?></h1>

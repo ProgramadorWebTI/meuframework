@@ -1,5 +1,5 @@
 <?php
-session_start();
+
 require './environment.php';
 function base_url($url = null) {
 	$base_url = $_SERVER['REQUEST_SCHEME'] . "://" . $_SERVER['HTTP_HOST'];
